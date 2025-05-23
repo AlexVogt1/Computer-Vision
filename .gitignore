@@ -1,0 +1,9 @@
+data/
+*.zip
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.jfif
+.conda/
