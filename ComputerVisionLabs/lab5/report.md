@@ -1,0 +1,6 @@
+ - Masks need to be thresholded
+ - Not all images have 3 masks
+ - Some masks are different sizes
+ - Jaccard score as an agreement metric
+ - Shows one image (28) has an inverted mask
+ - Images will need to be downscaled most likely to increase computation speed
